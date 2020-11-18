@@ -8,7 +8,7 @@ function obtenerMayor(x, y) {
   if (x < y) {
     return y
   } return x
-  if ( x === y ) {return x}
+  
 }
 
 function saludo(idioma) {
